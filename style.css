@@ -1,0 +1,10 @@
+h1{
+  font-size: 60px; color: red; text-align: center; font-style: italic;
+}
+img{
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  left: 50px;
+  top: 25px;
+}
